@@ -21,11 +21,11 @@ Netflix is one of the largest streaming platforms in the world. This analysis di
 
 ## Visualizations
 
-- Pie chart: Distribution of Movies vs TV Shows
-- Bar chart: Top 10 Genres
-- Bar chart: Top 10 Producing Countries
-- Histogram: Content released over the years
-- Stacked bar chart: Content added by year (by type)
+- Distribution of Movies vs TV Shows
+- Top 10 Genres
+- Top 10 Producing Countries
+- Content released over the years
+- Content added by year (by type)
 
 ## Tools Used
 
