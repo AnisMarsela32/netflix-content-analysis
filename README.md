@@ -37,12 +37,4 @@ Netflix is one of the largest streaming platforms in the world. This analysis di
 
 🔗 [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/anis.marsela2969/viz/Netflix_17484912331770/NetflixContentTrends20082021?publish=yes)
 
-## Data Cleaning
-
-Missing values handled in:
-- `director`, `cast`, `country`, `date_added`, `duration`
-New columns:
-- `duration_num`, `duration_unit`, `year_added`
-
-## Project Structure
 
